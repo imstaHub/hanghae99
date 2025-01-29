@@ -101,6 +101,7 @@ if images:=st.file_uploader("사진을 자유롭게 올려주세요!", type=['pn
         for his in memory_rst:
             if(isinstance(his, SystemMessage)):
                 summary_content = [{"role":"user","type":"text", "text":his.content}]
+                break
 
         # 질문
         with st.chat_message('user'):
