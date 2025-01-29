@@ -12,3 +12,9 @@
 
 ### 처음에 언급한 이름을 기억하는 지 되묻기
 ![default](temp/streamlit_demo3.gif)
+
+
+
+### 사진출처
+- https://www.donga.com/news/Society/article/all/20240924/130091420/2
+- https://biz.heraldcorp.com/article/2699908
