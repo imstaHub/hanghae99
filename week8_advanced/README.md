@@ -1,7 +1,7 @@
 ## Week8 Advanced Homework
 ## service
 - 논문 요약 및 챗봇 서비스
-- 내부의 요약 모듈을 fine tuning 모델로 대체하려 했으나 학습된 모델의 성능 이슈로 모델을 대체하지 못함 -> 3b 모델로 테스트 필요
+- 내부의 요약 모듈을 fine tuning 모델로 대체하려 했으나 학습된 모델의 성능 이슈로 모델을 대체하지 못함 -> 3b 이상의 모델 사용 또는 데이터의 크기 축소하여 테스트 필요
 - week8_advanced.py 는 week6_advanced.py와 동일한 버전(개선 없음)
 
 ### wandb 학습 결과 link
