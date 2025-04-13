@@ -12,11 +12,11 @@
 > 기본과제에서 사용했던 'distilbert' 모델을 사용했습니다.
 
 
-## Q4) 실제로 pre-trained 모델을 fine-tuning했을 때 loss curve은 어떻게 그려지나요? 그리고 pre-train 하지 않은 Transformer를 학습했을 때와 어떤 차이가 있나요? 
+## Q4) 실제로 pre-trained 모델을 fine-tuning했을 때 loss curve은 어떻게 그려지나요? 그리고 pre-train 하지 않은 Transformer를 학습했을 때와 어떤 차이가 있나요?
 > dataset을 전처리 하느라, 사실상 모델 학습을 다양하게 시도해보지 못했습니다.
 > 20 epoch으로 학습을 해봤을 때, loss가 작아지는 것을 확인하였습니다.
 
 
 ### 위의 사항들을 구현하고 나온 결과들을 정리한 보고서를 README.md 형태로 업로드
-### 코드 및 실행 결과는 jupyter notebook 형태로 같이 public github repository에 업로드하여 공유해주시면 됩니다(반드시 출력 결과가 남아있어야 합니다!!) 
+### 코드 및 실행 결과는 jupyter notebook 형태로 같이 public github repository에 업로드하여 공유해주시면 됩니다(반드시 출력 결과가 남아있어야 합니다!!)
 
